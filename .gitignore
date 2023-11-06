@@ -1,0 +1,8 @@
+target
+.idea/
+**.DS_Store
+**.iml
+.allure/
+/src/test/resources/screenshots/
+/src/test/resources/xml/
+/src/test/resources/logs/
